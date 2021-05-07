@@ -1,0 +1,16 @@
+{
+  "name": "pauls-foundry-vtt-hacks",
+  "title": "Foundry VTT Hacks",
+  "description": "Easy way to install hacks remotely",
+  "version": "1.0.0",
+  "author": "Paul Potsides",
+  "socket": true,
+  "scripts": [],
+  "styles": ["styles.css"],
+  "packs": [],
+  "url": "https://github.com/strongpauly/foundry-vtt-hacks",
+  "download": "https://github.com/League-of-Foundry-Developers/fvtt-module-theatre/releases/download/v1.1.5/theatre.zip",
+  "manifest": "https://github.com/strongpauly/foundry-vtt-hacks/latest/module.json",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9"
+}
