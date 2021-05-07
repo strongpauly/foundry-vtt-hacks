@@ -9,8 +9,8 @@
   "styles": ["styles.css"],
   "packs": [],
   "url": "https://github.com/strongpauly/foundry-vtt-hacks",
-  "download": "https://github.com/League-of-Foundry-Developers/fvtt-module-theatre/releases/download/v1.1.5/theatre.zip",
-  "manifest": "https://github.com/strongpauly/foundry-vtt-hacks/latest/module.json",
+  "download": "https://github.com/strongpauly/foundry-vtt-hacks/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/strongpauly/foundry-vtt-hacks/main/module.json",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9"
 }

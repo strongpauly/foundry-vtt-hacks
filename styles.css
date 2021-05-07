@@ -1,0 +1,4 @@
+.theatre-bar {
+  height: 250px !important;
+  top: calc(100% - 250px) !important;
+}
