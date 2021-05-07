@@ -2,3 +2,7 @@
   height: 250px !important;
   top: calc(100% - 250px) !important;
 }
+
+.player-role-0 .theatre-control-group {
+  display: none;
+}
