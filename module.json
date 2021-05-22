@@ -12,5 +12,5 @@
   "download": "https://github.com/strongpauly/foundry-vtt-hacks/archive/refs/heads/main.zip",
   "manifest": "https://raw.githubusercontent.com/strongpauly/foundry-vtt-hacks/main/module.json",
   "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "0.7.9"
+  "compatibleCoreVersion": "0.8.5"
 }
