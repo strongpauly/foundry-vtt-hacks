@@ -2,7 +2,7 @@
   "name": "pauls-foundry-vtt-hacks",
   "title": "Foundry VTT Hacks",
   "description": "Easy way to install hacks remotely",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Paul Potsides",
   "socket": true,
   "scripts": ["index.js"],
