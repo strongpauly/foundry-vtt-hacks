@@ -10,3 +10,7 @@
 .player-role-1 .theatre-control-group {
   display: none;
 }
+
+.theatre-control-btn {
+  display: none;
+}
